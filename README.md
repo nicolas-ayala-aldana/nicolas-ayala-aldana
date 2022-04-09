@@ -3,7 +3,8 @@
 - 🔬 I’m interested in Biomedical Science, Epidemiology and Bioinformatics.
 - 💻Skills:Programming in Python, RStudio, Bash and MySql
 - 📫 Contact: nayalaaldana@gmail.com ; nicolas.ayala@utalca.cl ; nayalaal28@alumnes.ub.edu
-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
 <!---
